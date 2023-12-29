@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "554079979536",
+    "project_id": "presence-fc26b",
+    "storage_bucket": "presence-fc26b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554079979536:android:eb5c3fcba82d8ed0a32295",
+        "android_client_info": {
+          "package_name": "com.techelup.presence"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuGsqAsS7qHmkOA3Jsqa_LqCdltUxfDrY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
